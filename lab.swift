@@ -1,0 +1,1 @@
+let animationStateKey = AnimationStateKey("yourKey")
